@@ -24,3 +24,6 @@
 <img src="https://github.com/j20232/WetShader/blob/master/pic/dry1.png" alt="DryTexture1" title="乾いたテクスチャ(左) デフォルト(右)" width="400" height="200">
 <img src="https://github.com/j20232/WetShader/blob/master/pic/dry2.png" alt="DryTexture2" title="乾いたテクスチャ(左) デフォルト(右)" width="400" height="200">
 (左が乾いたテクスチャ)
+
+## License
+MIT
