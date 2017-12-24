@@ -11,8 +11,9 @@
 3. HSL画像のS成分saturationに適当な定数項\_Saturationを加算
 4. HSLからRGBに変換
 
-![湿ったテクスチャ(左) デフォルト(右)](/pic/wet1)
-![湿ったテクスチャ(左) デフォルト(右)](/pic/wet2)
+<img src="https://github.com/j20232/WetShader/blob/master/pic/wet1.png" alt="WetTexture1" title="湿ったテクスチャ(左) デフォルト(右)" width="400" height="200">
+<img src="https://github.com/j20232/WetShader/blob/master/pic/wet2.png" alt="WetTexture2" title="湿ったテクスチャ(左) デフォルト(右)" width="400" height="200">
+(左が湿ったテクスチャ)
 
 ### 乾かす場合
 1. テクスチャをRGBからHSLに変換
@@ -20,5 +21,9 @@
 3. HSL画像のS成分saturationに適当な定数項\_Saturationを減算
 4. HSLからRGBに変換
 
-![乾いたテクスチャ(左) デフォルト(右)](/pic/dry1)
-![乾いたテクスチャ(左) デフォルト(右)](/pic/dry2)
+<img src="https://github.com/j20232/WetShader/blob/master/pic/dry1.png" alt="DryTexture1" title="乾いたテクスチャ(左) デフォルト(右)" width="400" height="200">
+<img src="https://github.com/j20232/WetShader/blob/master/pic/dry2.png" alt="DryTexture2" title="乾いたテクスチャ(左) デフォルト(右)" width="400" height="200">
+(左が乾いたテクスチャ)
+
+## License
+MIT
