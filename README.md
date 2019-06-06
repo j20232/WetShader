@@ -1,4 +1,4 @@
-# Unity shader to add the wetness☔/dryness🏜️ to the texture
+# Unity shader to add the wetness/dryness to the texture
 ## About🤔
 This project is my implementation of the method proposed at [[Sawayama et al. jounal of vision 2017]](https://jov.arvojournals.org/article.aspx?articleid=2627514).  
 
